@@ -1,0 +1,16 @@
+-= Soulful Ninja =-
+Soulful ninja is a 2D sidescrolling action rpg game where the player controls Churo as he tries to save the world.
+
+Gameplay:
+Churo has two sides with him, the dark and the light. When he's in light, he gains elemental powers. When he's in the dark he gains a bunch of ninja moves.
+
+-------------------------------
+Controls:
+- A -> move left
+- D -> move right
+- Spacebar -> jump
+- A while beside a wall -> wall grab
+- Spacebar while wall grab -> wall jump
+- U -> basic attack
+- I -> use selected skill
+- O -> switch between skills
